@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabla Simple</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 20px;
+        }
+        table {
+            border-collapse: collapse;
+        }
+        td, th {
+            border: 1px solid black;
+            padding: 8px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Tabla de Personas</h1>
+    
+    <table>
+        <tr>
+            <th>Nombre</th>
+            <th>Edad</th>
+            <th>Ciudad</th>
+        </tr>
+        <tr>
+            <td>Ana Martínez</td>
+            <td>27</td>
+            <td>Madrid</td>
+        </tr>
+        <tr>
+            <td>Carlos López</td>
+            <td>35</td>
+            <td>Barcelona</td>
+        </tr>
+        <tr>
+            <td>Elena Rodríguez</td>
+            <td>42</td>
+            <td>Sevilla</td>
+        </tr>
+        <tr>
+            <td>Miguel Fernández</td>
+            <td>31</td>
+            <td>Valencia</td>
+        </tr>
+    </table>
+</body>
+</html>
