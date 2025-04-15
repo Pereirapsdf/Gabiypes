@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Receta: Tortilla Española</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        ol {
+            line-height: 1.4;
+        }
+    </style>
+</head>
+<body>
+    <h1>Tortilla Española</h1>
+    
+    <p>Receta clásica de tortilla española de patatas.</p>
+    
+    <h2>Ingredientes:</h2>
+    <ul>
+        <li>4 patatas medianas</li>
+        <li>1 cebolla</li>
+        <li>6 huevos</li>
+        <li>Aceite de oliva</li>
+        <li>Sal</li>
+    </ul>
+    
+    <h2>Pasos de preparación:</h2>
+    <ol>
+        <li>Pelar y cortar las patatas en rodajas finas.</li>
+        <li>Picar la cebolla.</li>
+        <li>Freír las patatas y la cebolla a fuego medio hasta que estén tiernas.</li>
+        <li>Batir los huevos en un recipiente grande y añadir sal.</li>
+        <li>Escurrir el aceite de las patatas y mezclarlas con los huevos batidos.</li>
+        <li>Verter la mezcla en una sartén y cocinar a fuego medio-bajo por 4-5 minutos.</li>
+        <li>Dar la vuelta a la tortilla con ayuda de un plato y cocinar por el otro lado.</li>
+        <li>Servir caliente o a temperatura ambiente.</li>
+    </ol>
+</body>
+</html>
