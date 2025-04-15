@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Videojuegos - Lorem Ipsum</title>
+    <style>
+        body {
+            font-family: 'Trebuchet MS', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #e8e8e8;
+        }
+        .contenedor {
+            width: 85%;
+            max-width: 700px;
+            margin: 30px auto;
+            background-color: white;
+            padding: 20px;
+            border-top: 4px solid #663399;
+        }
+        h1 {
+            color: #663399;
+        }
+        p {
+            line-height: 1.5;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <div class="contenedor">
+        <h1>La Evolución de los Videojuegos</h1>
+        
+        <p>
+            Lorem ipsum dolor sit amet, <strong>consectetur adipiscing elit</strong>. Nullam ac 
+            <u>vehicula nisl</u>, in eleifend arcu. Proin id <i>metus ut magna</i> volutpat 
+            convallis quis et mi. <em>Curabitur sollicitudin mauris vel nulla efficitur</em>, 
+            eget aliquam justo fermentum.
+        </p>
+        
+        <p>
+            Vestibulum <strong>commodo faucibus</strong> metus, eu <u>sagittis magna</u> 
+            lobortis ut. Sed <i>molestie massa mollis</i> turpis porttitor, sit amet imperdiet 
+            lacus vulputate. Nullam <em>hendrerit auctor condimentum</em>. Donec vehicula 
+            cursus dolor.
+        </p>
+        
+        <p>
+            Quisque quis <strong>tincidunt felis</strong>. Maecenas <u>ornare risus risus</u>, 
+            in molestie magna <i>gravida eget</i>. Nam vel luctus mauris. 
+            <em>Suspendisse potenti. Integer consequat sem sit amet eleifend dictum.</em>
+            Curabitur dignissim velit eget nibh sollicitudin faucibus.
+        </p>
+    </div>
+</body>
+</html>
