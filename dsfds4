@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contacto por Email</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 20px;
+            text-align: center;
+        }
+        h1 {
+            margin-bottom: 30px;
+        }
+        a {
+            color: blue;
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Contáctanos</h1>
+    
+    <p>Haz clic en el siguiente enlace para enviarnos un correo:</p>
+    
+    <a href="mailto:contacto@ejemplo.com">Enviar correo a contacto@ejemplo.com</a>
+    
+</body>
+</html>
