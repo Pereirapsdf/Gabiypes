@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Receta: Guacamole Casero</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #e8f5e9;
+            text-align: center;
+        }
+        .contenedor {
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: white;
+            padding: 25px;
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #2e7d32;
+        }
+        h2 {
+            color: #388e3c;
+        }
+        ul, ol {
+            display: inline-block;
+            text-align: left;
+            line-height: 1.6;
+        }
+        ol li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="contenedor">
+        <h1>Guacamole Casero</h1>
+        
+        <p>Receta fácil y rápida de guacamole mexicano.</p>
+        
+        <h2>Ingredientes:</h2>
+        <ul>
+            <li>3 aguacates maduros</li>
+            <li>1 tomate mediano</li>
+            <li>1/2 cebolla</li>
+            <li>1 chile jalapeño (opcional)</li>
+            <li>Zumo de 1 lima</li>
+            <li>Cilantro fresco</li>
+            <li>Sal</li>
+        </ul>
+        
+        <h2>Pasos de preparación:</h2>
+        <ol>
+            <li>Cortar los aguacates por la mitad, quitar el hueso y extraer la pulpa con una cuchara.</li>
+            <li>Machacar los aguacates en un recipiente con un tenedor hasta conseguir la consistencia deseada.</li>
+            <li>Picar finamente el tomate, la cebolla, el jalapeño (sin semillas) y el cilantro.</li>
+            <li>Añadir los ingredientes picados a los aguacates machacados.</li>
+            <li>Exprimir el zumo de lima sobre la mezcla y añadir sal al gusto.</li>
+            <li>Mezclar todos los ingredientes hasta integrarlos bien.</li>
+            <li>Probar y ajustar la sazón si es necesario.</li>
+            <li>Servir inmediatamente con nachos o como acompañamiento.</li>
+        </ol>
+    </div>
+</body>
+</html>
