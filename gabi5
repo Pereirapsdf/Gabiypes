@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Texto con Formatos</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.5;
+        }
+    </style>
+</head>
+<body>
+    <h1>El Mundo de la Programación</h1>
+    
+    <p>
+        Aprender a programar es un <strong>proceso fascinante</strong> que requiere dedicación. 
+        Los lenguajes como HTML son <u>herramientas fundamentales</u> para crear páginas web.
+        Muchos estudiantes encuentran que la sintaxis es <i>relativamente sencilla</i> al principio.
+        <em>Practicar todos los días</em> es la mejor manera de mejorar tus habilidades.
+    </p>
+    
+    <p>
+        El desarrollo web combina <strong>creatividad</strong> y <u>lógica</u> para crear 
+        experiencias <i>atractivas</i> para los usuarios. <em>¡Nunca dejes de aprender!</em>
+    </p>
+</body>
+</html>
